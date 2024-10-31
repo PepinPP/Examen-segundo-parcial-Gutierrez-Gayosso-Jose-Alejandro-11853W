@@ -39,7 +39,7 @@ mensaje <nombre> tiene
 <edad> años, vive en <dirección> y su número de teléfono es
 <teléfono>.
 
-![image](https://github.com/user-attachments/assets/d86122b7-1029-4168-8f45-6c002772c4b5)
+![image](https://github.com/user-attachments/assets/053d1f64-3025-4b89-8640-41218b569da5)
 
 ![image](https://github.com/user-attachments/assets/3ed05342-d96c-4425-a2a1-171a78f9893a)
 
