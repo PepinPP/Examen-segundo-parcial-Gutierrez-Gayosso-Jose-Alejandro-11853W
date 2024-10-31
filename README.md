@@ -7,9 +7,9 @@ asignatura y elimine de la lista las asignaturas aprobadas. Al final el
 programa debe mostrar por pantalla las asignaturas que el usuario tiene que
 repetir.
 
+![image](https://github.com/user-attachments/assets/170b15d3-7249-4f1d-936e-066495f451e6)
 
-
-
+![image](https://github.com/user-attachments/assets/a62022a4-614e-46bd-ac48-59d657a8b838)
 
 2-Escribir un programa que almacene el diccionario
 con los créditos de las asignaturas de un curso {'Matemáticas': 6, 'Física': 4, 'Química': 5} y
@@ -19,9 +19,9 @@ tiene <créditos> créditos, donde <asignatura> es
 cada una de las asignaturas del curso, y <créditos> son sus créditos. Al final debe
 mostrar también el número total de créditos del curso.
 
+![image](https://github.com/user-attachments/assets/bb5c27a1-a96e-46a4-a74e-cf78909228c2)
 
-
-
+![image](https://github.com/user-attachments/assets/7847df82-8dff-46c0-9b81-2244d5a53bd2)
 
 3-Escribir un programa que almacene las
 asignaturas de un curso (por ejemplo Matemáticas, Física, Química, Historia y
